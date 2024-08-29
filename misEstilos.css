@@ -2,7 +2,7 @@
 
 body {
     text-align: center;
-    background-image: url("imagenes/WhatsApp\ Image\ 2024-08-29\ at\ 10.04.45.jpeg");
+    background-image: url("WhatsApp\ Image\ 2024-08-29\ at\ 10.04.45.jpeg");
     color: #000000;
     width: 40%;
     margin: 0 auto;
@@ -19,7 +19,7 @@ body {
     height: 100px;
     width: 100px;
     border-radius: 50% ;
-    background-image: url("imagenes/communityIcon_cl3by3rav6o11.png");
+    background-image: url("communityIcon_cl3by3rav6o11.png");
 }
 
 .saldo {
